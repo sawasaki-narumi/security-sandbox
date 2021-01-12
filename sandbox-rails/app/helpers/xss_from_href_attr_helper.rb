@@ -1,0 +1,2 @@
+module XssFromHrefAttrHelper
+end
